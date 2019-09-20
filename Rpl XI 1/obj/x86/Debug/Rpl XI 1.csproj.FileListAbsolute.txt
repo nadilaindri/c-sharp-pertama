@@ -1,0 +1,4 @@
+C:\Users\user\documents\visual studio 2010\Projects\Rpl XI 1\Rpl XI 1\bin\Debug\Rpl XI 1.exe
+C:\Users\user\documents\visual studio 2010\Projects\Rpl XI 1\Rpl XI 1\bin\Debug\Rpl XI 1.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Rpl XI 1\Rpl XI 1\obj\x86\Debug\Rpl XI 1.exe
+C:\Users\user\documents\visual studio 2010\Projects\Rpl XI 1\Rpl XI 1\obj\x86\Debug\Rpl XI 1.pdb
